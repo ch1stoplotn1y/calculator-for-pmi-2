@@ -14,3 +14,5 @@ class CalculatorTest {
         assertEquals(2, calculator.getState());
     }
 }
+
+
